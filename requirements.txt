@@ -1,0 +1,4 @@
+schedule
+bs4
+konlpy
+openai
